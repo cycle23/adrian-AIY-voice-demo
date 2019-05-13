@@ -21,3 +21,7 @@ References Used:
 - [Simple HTTP Server With Python 3](https://daanlenaerts.com/blog/2015/06/03/create-a-simple-http-server-with-python-3/)
 - [Python HTTP](https://www.acmesystems.it/python_http)
 - [Python Threading Example](https://gist.github.com/sebdah/832219525541e059aefa)
+
+Notes:
+- This project was for a middle school student I mentored. The code was just put together as quickly as possible to achieve our goals, not to show software best practices.
+- The use of IntentService may be overkill in this implementation since Volley is already placing web requests in the background.
