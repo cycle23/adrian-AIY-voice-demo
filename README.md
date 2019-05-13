@@ -5,7 +5,7 @@ Adrian's Project for [Spark Program](www.sparkprogram.org) mentorship, Spring 20
 [Google Slides Presentation](https://bit.ly/30cd1el)
 
 1. Follow [AIY Voice Kit](https://aiyprojects.withgoogle.com/voice/) setup instructions
-2. Add and start a service using the Python in this repository on the AIY Voice Kit. (ie: copy onto the Raspberry Pi at /home/pi/AIY-projects-python/src/examples/voice/ and follow [service install instructions](https://aiyprojects.withgoogle.com/voice/#makers-guide--run-your-app-at-bootup)).
+2. Add and start a service using the Python in this repository on the AIY Voice Kit. (ie: copy onto the Raspberry Pi at `/home/pi/AIY-voice-kit-python/src/examples/voice/` and follow [service install instructions](https://aiyprojects.withgoogle.com/voice/#makers-guide--run-your-app-at-bootup)).
 3. Use [Android Studio](https://developer.android.com/studio) or similar to install the Android Application from this repository to a phone.
 4. You will need to run on a shared local network (ie: a hotspot from the phone) between the application and the voice kit and modify the [IP address](https://github.com/cycle23/adrian-AIY-voice-demo/blob/master/app/src/main/java/com/example/animatedgif/ImageIntentService.java#L27) in the Android Application accordingly.
 5. You can request the IP Address from the AIY Voice Kit via "OK Google, IP Address", or logging into the Raspberry Pi kernel.
