@@ -4,7 +4,7 @@ Adrian's Project for [Spark Program](www.sparkprogram.org) mentorship, Spring 20
 
 [Google Slides Presentation](https://bit.ly/30cd1el)
 
-1. Follow AIY Voice Kit setup instructions
+1. Follow [AIY Voice Kit](https://aiyprojects.withgoogle.com/voice/) setup instructions
 2. Add and start a service using the Python in this repository on the AIY Voice Kit.
 3. Use Android Studio or similar to install the Android Application from this repository to a phone.
 4. You will need to run on a shared local network (ie: a hotspot from the phone) between the application and the voice kit and modify the [IP address](https://github.com/cycle23/adrian-AIY-voice-demo/blob/master/app/src/main/java/com/example/animatedgif/ImageIntentService.java#L27) in the Android Application accordingly.
