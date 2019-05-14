@@ -10,7 +10,7 @@ Adrian's Project for [Spark Program](www.sparkprogram.org) mentorship, Spring 20
 4. You will need to run on a shared local network (ie: a hotspot from the phone) between the application and the voice kit and modify the [IP address](https://github.com/cycle23/adrian-AIY-voice-demo/blob/master/app/src/main/java/com/example/animatedgif/ImageIntentService.java#L27) in the Android Application accordingly.
 5. You can request the IP Address from the AIY Voice Kit via "OK Google, IP Address", or logging into the Raspberry Pi kernel.
 6. Once running, use a phrase containing the word "dance" and one of the 5 preset dances, ie: "Hey Google, Do the marshmallow dance", or "OK Google, dance like Iconic".
-7. The phone application should update to reflect the latest dance
+7. The phone application should update to reflect the latest dance.
 
 References Used:
 - [GifImageView for Android Apps](https://github.com/NihalPandya/demoUpload/blob/master/GifImageView.java)
